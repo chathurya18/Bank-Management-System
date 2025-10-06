@@ -29,5 +29,5 @@ Admins can manage accounts and approve loans, while customers can deposit, withd
 
 ---
 
-## 🧩 Folder Structure
+
 
